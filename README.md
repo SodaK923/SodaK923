@@ -14,7 +14,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SodaK923&show_icons=true&theme=cobalt)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SodaK923&show_icons=true&theme=dark)
 
 <!--
 **SodaK923/SodaK923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

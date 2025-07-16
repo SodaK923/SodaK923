@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Soda
 
-## 🚀 About Me
+## 🎸 About Me
 * 💻 Full-Stack Developer
 * 🌱 Currently learning and building web applications
 * 📫 Contact: k.sua923@gmail.com

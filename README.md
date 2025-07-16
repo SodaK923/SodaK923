@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi, my name is Soda
+
+## 🚀 About Me
+<!-- 🌱 현재 [언어/기술] 공부 중 -->
+- 💻 풀스택 개발자
+- 📫 연락처: k.sua923@gmail.com
+
+## 🛠️ Tech Stack
+### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=너의username&show_icons=true&theme=radical)
 
 <!--
 **SodaK923/SodaK923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

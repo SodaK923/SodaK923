@@ -1,4 +1,4 @@
-## Hi, my name is Soda
+# Hi, my name is Soda
 
 ## 🚀 About Me
 * 💻 Full-Stack Developer

@@ -1,5 +1,8 @@
 <div align="center">
+  
 ## Hi there! 👋 I'm Soda
+
+<hr>
 
 ## 🎸 About Me
 💻 Full-Stack Developer  

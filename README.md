@@ -4,7 +4,7 @@
 
 ## 🎸 About Me
 💻 Full-Stack Developer  
-🌱 Currently learning and building web applications  
+<!--🌱 Currently learning and building web applications  -->
 📫 Contact: k.sua923@gmail.com  
 
 ## 🛠️ Tech Stack

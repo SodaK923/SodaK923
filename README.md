@@ -1,8 +1,6 @@
 <div align="center">
   
-## Hi there! 👋 I'm Soda
-
-<hr>
+# Hi there! 👋 I'm Soda
 
 ## 🎸 About Me
 💻 Full-Stack Developer  

@@ -2,9 +2,9 @@
 # Hi there! 👋 I'm Soda
 
 ## 🎸 About Me
-* 💻 Full-Stack Developer
-* 🌱 Currently learning and building web applications
-* 📫 Contact: k.sua923@gmail.com
+💻 Full-Stack Developer
+🌱 Currently learning and building web applications
+📫 Contact: k.sua923@gmail.com
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)

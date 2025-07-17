@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there! 👋 I'm Soda
 
 ## 🎸 About Me
@@ -31,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>

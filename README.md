@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
  # About Me
 - 이름: 강수아

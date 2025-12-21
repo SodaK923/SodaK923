@@ -99,11 +99,15 @@ Deezer API로 외부 이동 없이 웹 내에서 스트리밍, 검색, 플레이
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) -->
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SodaK923&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SodaK923&layout=compact&theme=tokyonight)
+
+## Baekjoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eyeless90](https://solved.ac/eyeless90)
+
 
 <!--
 **SodaK923/SodaK923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

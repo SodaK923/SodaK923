@@ -1,7 +1,7 @@
 <!-- <div align="center"> -->
 
  ## Hi, I'm Sua
- 💻 Backend Developer 
+ 💻 Backend Developer  
 Blog: https://eyeless90.tistory.com  
 Contact: k.sua923@gmail.com 
 

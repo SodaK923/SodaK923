@@ -2,8 +2,8 @@
 
  ## Hi, I'm Sua
  💻 Backend Developer 
-Blog: https://eyeless90.tistory.com 
-Contact: k.sua923@gmail.com
+Blog: https://eyeless90.tistory.com  
+Contact: k.sua923@gmail.com 
 
 
 

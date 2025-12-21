@@ -1,10 +1,9 @@
 <!-- <div align="center"> -->
 
- # About Me
-- 이름: 강수아
-- 생년월일: 2003.02.26 (23세)
-- 기술블로그: https://eyeless90.tistory.com
-- Email: k.sua923@gmail.com 
+ ## Hi, I'm Sua
+ 💻 Backend Developer
+Blog: https://eyeless90.tistory.com
+Contact: k.sua923@gmail.com
 
 
 
@@ -26,9 +25,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-#### DevOps / Infra
+#### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!--![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
 
 #### Tools
@@ -57,7 +57,7 @@
 | 2025.12 ~ | 바디채널 목사랑시장점 | 헬스장 인포|
 | 2023.04 ~ 2024.12| GS25 목동햇살점 | 고객응대, 재고관리|
 | 2022.02 ~ 2023.08| 설빙 가양점 |  고객응대, 음료제조, 직원교육|
--->
+
 
 ### 자격증
 
@@ -66,7 +66,7 @@
 | --- | --- | --- | --- |
 | 2025.05.16| 정보처리기사| 필기|한국산업인력공단
 | (취득예정)| 정보처리기사| 실기 |한국산업인력공단
-
+-->
 
 
 # Projects

@@ -104,6 +104,8 @@ Deezer API로 외부 이동 없이 웹 내에서 스트리밍, 검색, 플레이
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) -->
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SodaK923&count_private=true&show_icons=true&theme=github_dark_dimmed)
+<!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SodaK923&count_private=true&show_icons=true&theme=github_dark_dimmed)
 
 <!--

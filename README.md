@@ -3,8 +3,8 @@
  ## Hi, I'm Sua
  💻 Backend Developer  
 Blog: https://eyeless90.tistory.com  
-Contact: k.sua923@gmail.com
-Portfolio: https://www.notion.so/2debb8bcfbcd80959c31eb1099db4042
+Contact: k.sua923@gmail.com  
+Portfolio: [https://www.notion.so](https://www.notion.so/2debb8bcfbcd80959c31eb1099db4042)
 
 
 

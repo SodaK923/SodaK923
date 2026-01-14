@@ -3,7 +3,8 @@
  ## Hi, I'm Sua
  💻 Backend Developer  
 Blog: https://eyeless90.tistory.com  
-Contact: k.sua923@gmail.com 
+Contact: k.sua923@gmail.com
+Portfolio: https://www.notion.so/2debb8bcfbcd80959c31eb1099db4042
 
 
 
@@ -72,7 +73,7 @@ Contact: k.sua923@gmail.com
 
 
 ## Projects
-### MLB 모자 쇼핑몰
+### [MLB 모자 쇼핑몰](https://docs.google.com/presentation/d/10I-35M1CZIURjEMDmjaetFifbSE7RoLAesHX9N9klKk/edit)
 JSP를 활용한 MLB 모자 쇼핑몰 웹 어플리케이션. 제품 카테고리 분류를 기반으로 관리자는 상품 관리를, 고객은 다양한 MLB 팀별 모자 상품을 컬러와 사이즈 단위로 선택할 수 있으며, 회원가입 부터 장바구니, 주문을 통한 통합 쇼핑 기능을 제공합니다.
 
 

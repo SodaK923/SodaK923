@@ -70,13 +70,16 @@ Portfolio: [https://www.notion.so](https://www.notion.so/2debb8bcfbcd80959c31eb1
 | 2025.05.16| 정보처리기사| 필기|한국산업인력공단
 | (취득예정)| 정보처리기사| 실기 |한국산업인력공단
 -->
+
+
+
+## Projects
 ### [MusicShare](https://theje-project.github.io/)
 Spring Boot·React 기반의 음악 중심 소셜 커뮤니티.
 Deezer API로 외부 이동 없이 웹 내에서 스트리밍, 검색, 플레이리스트 생성·관리를 지원합니다.
 실시간 취향 공유·추천, 댓글·팔로우를 통해 음악을 매개로 한 새로운 형태의 네트워킹을 구현했습니다.
 
 
-## Projects
 ### [MLB 모자 쇼핑몰](https://docs.google.com/presentation/d/10I-35M1CZIURjEMDmjaetFifbSE7RoLAesHX9N9klKk/edit)
 JSP를 활용한 MLB 모자 쇼핑몰 웹 어플리케이션. 제품 카테고리 분류를 기반으로 관리자는 상품 관리를, 고객은 다양한 MLB 팀별 모자 상품을 컬러와 사이즈 단위로 선택할 수 있으며, 회원가입 부터 장바구니, 주문을 통한 통합 쇼핑 기능을 제공합니다.
 

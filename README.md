@@ -70,6 +70,10 @@ Portfolio: [https://www.notion.so](https://www.notion.so/2debb8bcfbcd80959c31eb1
 | 2025.05.16| 정보처리기사| 필기|한국산업인력공단
 | (취득예정)| 정보처리기사| 실기 |한국산업인력공단
 -->
+### [MusicShare](https://theje-project.github.io/)
+Spring Boot·React 기반의 음악 중심 소셜 커뮤니티.
+Deezer API로 외부 이동 없이 웹 내에서 스트리밍, 검색, 플레이리스트 생성·관리를 지원합니다.
+실시간 취향 공유·추천, 댓글·팔로우를 통해 음악을 매개로 한 새로운 형태의 네트워킹을 구현했습니다.
 
 
 ## Projects
@@ -82,11 +86,6 @@ React 기반 1인 가구 지역 커뮤니티. 이웃과 생활 꿀팁을 공유�
 지역 중고거래와 대용량 공동구매를 통해 안전한 거래와 효율적 소비를 지원합니다.
 지역구 단위로 세분화된 서비스를 제공하여 실제 만남이 가능한 이웃 연결을 지향합니다.
 
-
-### [MusicShare](https://theje-project.github.io/)
-Spring Boot·React 기반의 음악 중심 소셜 커뮤니티.
-Deezer API로 외부 이동 없이 웹 내에서 스트리밍, 검색, 플레이리스트 생성·관리를 지원합니다.
-실시간 취향 공유·추천, 댓글·팔로우를 통해 음악을 매개로 한 새로운 형태의 네트워킹을 구현했습니다.
   
 <!--# Hi there! 👋 I'm Soda
 

@@ -18,6 +18,7 @@ Portfolio: [https://www.notion.so](https://www.notion.so/2debb8bcfbcd80959c31eb1
 
 
 #### Backend
+[![NuGet Version](https://shields.io)](https://nuget.org)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white)
